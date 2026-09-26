@@ -1,0 +1,103 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ------------------------------------------------------------------
+   Sherlock Homes theme — "Happy Hues" style: warm cream background,
+   navy stroke outlines, tan buttons, coral accent. Flat, bold, friendly.
+   ------------------------------------------------------------------ */
+:root {
+  --paper: #f9f4ef;        /* background */
+  --paper-raised: #fffffe; /* cards / main */
+  --paper-sunk: #eaddcf;   /* secondary */
+  --ink: #020826;          /* headline + stroke */
+  --ink-soft: #716040;     /* paragraph */
+  --ink-muted: #8c7851;    /* muted text */
+  --stroke: #020826;       /* card outlines */
+  --line: #d8c9b6;         /* light dividers */
+  --brass: #8c7851;        /* button / highlight */
+  --brass-soft: #eaddcf;
+  --oxblood: #c2362a;      /* accent text (coral, darkened for readable small text) */
+  --oxblood-soft: #fde3df;
+  --coral: #f25042;        /* tertiary accent for shapes */
+  --hunter: #020826;       /* dark fills (selected states, chat bubbles) */
+  --hunter-ink: #fffffe;
+  --lvl-high: #5e2a12;
+  --lvl-med: #a0602a;
+  --lvl-low: #cf9a4e;
+  --lvl-none: #d8d2c4;
+  --series-1: #f25042;
+  --series-expected: #8c7851;
+  color-scheme: light;
+}
+
+html,
+body {
+  background-color: var(--paper);
+  color: var(--ink);
+}
+
+/* small uppercase labels */
+.case-stamp {
+  font-family: var(--font-body), system-ui, sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  font-variant-numeric: tabular-nums;
+}
+
+.tabular {
+  font-variant-numeric: tabular-nums lining-nums;
+}
+
+/* outlined badge for levels (was a rubber stamp) */
+.ink-stamp {
+  font-family: var(--font-body), system-ui, sans-serif;
+  font-weight: 700;
+  border: 2px solid currentColor;
+  border-radius: 4px;
+  letter-spacing: 0.04em;
+}
+
+.double-rule {
+  border-bottom: 2px solid var(--stroke);
+}
+
+/* header: flat, same colour as the page, strong bottom stroke */
+.tweed {
+  background-color: var(--paper);
+  color: var(--ink);
+  border-bottom: 2px solid var(--stroke);
+}
+
+/* cards: white with a navy outline, Happy Hues style */
+.dossier {
+  background: var(--paper-raised);
+  border: 2px solid var(--stroke);
+  border-radius: 6px;
+}
+
+.btn-primary {
+  background: var(--brass);
+  color: #fffffe;
+  font-weight: 700;
+  border-radius: 4px;
+}
+.btn-primary:hover {
+  filter: brightness(1.08);
+}
+
+.fleuron::before {
+  content: "";
+}
+
+.maplibregl-popup-content {
+  background: var(--paper-raised);
+  color: var(--ink);
+  border: 2px solid var(--stroke);
+  border-radius: 6px;
+  box-shadow: none;
+  font-family: var(--font-body), system-ui, sans-serif;
+}
+.maplibregl-popup-tip {
+  display: none;
+}

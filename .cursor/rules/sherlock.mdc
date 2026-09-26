@@ -1,0 +1,34 @@
+---
+description: Sherlock Homes project rules — analytical integrity and architecture
+alwaysApply: true
+---
+
+# Sherlock Homes Mk2 — rules for AI edits
+
+## Analytical integrity (non-negotiable)
+- All findings are computed deterministically in `sherlock/` (pandas/numpy). Never let an LLM compute, choose, or invent a number.
+- Never fabricate data, columns or values. Before using a column, check `docs/DATA_DICTIONARY.md` or inspect the file.
+- UNKNOWN is a valid result. Do not zero-fill, interpolate or impute missing values unless explicitly asked; if you aggregate or interpolate, label it.
+- Never imply causation. Forbidden in generated text: "caused", "led to", "drove", "due to", "because of", "resulted in". Use timing/co-occurrence language ("X increased before Y"; "both increased during this period").
+- Never present metro (7-county MSA) or national values as neighborhood measurements. Every value keeps its `geography` label.
+- Every calculated value must keep provenance: `source`, `source_id`, `source_file`, `geography`, `period_start`, `period_end`, `time_resolution`.
+- Do not compute % change when the base is < 5 (`config.MIN_TOTAL_COUNT`); show n/a.
+- Partial years (2019, 2026) are context only — never in change windows.
+- New thresholds/method changes must be documented in `docs/METHODOLOGY.md` in the same edit.
+
+## Architecture
+- Pipeline: `python -m sherlock.build` → `data/processed/*.json` (+ `web/public/data/` for offline demo).
+- API logic lives in `sherlock/service.py`; `api/main.py` stays a thin FastAPI wrapper.
+- Frontend types in `web/lib/types.ts` mirror `sherlock/build.py` output — update both together.
+- Keep dependencies minimal; geometry is pure Python (`sherlock/geo.py`) — do not add GDAL/GeoPandas unless necessary.
+- Run `python -m pytest -q` after changing `sherlock/`; run `npm run typecheck` in `web/` after changing TypeScript.
+
+## Data facts to remember
+- Permits changed systems in 2024 (`BUILDING` → `Building & Development Application`, new work_type labels); use the crosswalk in `sherlock/ingest.py`.
+- Permits have no dwelling-unit count; permit ≠ completed housing.
+- City-owned vacant lots are a snapshot of City-owned parcels only — not a vacancy rate.
+- Zillow file `9a1c60bd-...csv` is *inferred* ZHVI — keep the "inferred" label.
+- Mk2 ZIP layer: Zillow ZHVI/ZORI + County VALID sales (2020+ only). ZIP values must be labelled ZIP-level and never presented as neighborhood values.
+- Rent window is Aug 2023 → Aug 2026 (ZORI coverage); keep that label.
+- No income, population or vacancy-rate data is loaded unless data/raw/acs/acs_<year>.json exists.
+- Dr. John (sherlock/drjohn.py) must keep citations ([D#] Sherlock data, [W#] web) and the verification step; web text must never be presented as Sherlock data.

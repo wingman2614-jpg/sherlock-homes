@@ -1,0 +1,212 @@
+neighborhood,neighborhood_id,tract_geoid_2010,land_m2,share_of_neighborhood_land,share_of_tract_land_in_city_nbhds
+Allegheny Center,allegheny-center,42003562700,535964.0,1.0,0.5887
+Allegheny West,allegheny-west,42003562700,361829.0,1.0,0.3974
+Allentown,allentown,42003180300,765991.0,1.0,0.9899
+Arlington,arlington,42003561600,1275249.0,0.9997,0.8121
+Arlington,arlington,42003561700,320.0,0.0003,0.0003
+Arlington Heights,arlington-heights,42003160800,79967.0,0.2257,0.0759
+Arlington Heights,arlington-heights,42003561600,274276.0,0.7743,0.1747
+Banksville,banksville,42003202300,2509115.0,1.0,0.9958
+Bedford Dwellings,bedford-dwellings,42003050900,461742.0,1.0,0.998
+Beechview,beechview,42003191600,2412810.0,0.6385,0.9934
+Beechview,beechview,42003191700,2936.0,0.0008,0.0016
+Beechview,beechview,42003192000,1362848.0,0.3607,1.0
+Beltzhoover,beltzhoover,42003191500,17680.0,0.0163,0.0218
+Beltzhoover,beltzhoover,42003562400,1067973.0,0.9837,0.5656
+Bloomfield,bloomfield,42003060300,2996.0,0.0016,0.0027
+Bloomfield,bloomfield,42003080200,345562.0,0.19,1.0
+Bloomfield,bloomfield,42003080400,430389.0,0.2367,1.0
+Bloomfield,bloomfield,42003080600,404921.0,0.2227,1.0
+Bloomfield,bloomfield,42003080900,380225.0,0.2091,1.0
+Bloomfield,bloomfield,42003090300,254548.0,0.14,1.0
+Bluff,bluff,42003010300,859142.0,0.9988,0.9977
+Bluff,bluff,42003020100,1027.0,0.0012,0.0006
+Bon Air,bon-air,42003300100,401.0,0.0005,0.0005
+Bon Air,bon-air,42003562400,816794.0,0.9995,0.4326
+Brighton Heights,brighton-heights,42003270100,1040172.0,0.3568,1.0
+Brighton Heights,brighton-heights,42003270300,604373.0,0.2073,1.0
+Brighton Heights,brighton-heights,42003270800,1270786.0,0.4359,1.0
+Brookline,brookline,42003191600,259.0,0.0,0.0001
+Brookline,brookline,42003191700,1860273.0,0.3447,0.9984
+Brookline,brookline,42003191800,1453328.0,0.2693,1.0
+Brookline,brookline,42003191900,608743.0,0.1128,1.0
+Brookline,brookline,42003320600,1470902.0,0.2726,0.9969
+Brookline,brookline,42003562400,2561.0,0.0005,0.0014
+California-Kirkbride,california-kirkbride,42003250700,560320.0,1.0,1.0
+Carrick,carrick,42003290100,1269522.0,0.2932,1.0
+Carrick,carrick,42003290200,1453889.0,0.3357,1.0
+Carrick,carrick,42003290400,1607152.0,0.3711,1.0
+Central Business District,central-business-district,42003010300,1959.0,0.0012,0.0023
+Central Business District,central-business-district,42003020100,1675773.0,0.9963,0.9982
+Central Business District,central-business-district,42003020300,1032.0,0.0006,0.0006
+Central Business District,central-business-district,42003030500,3160.0,0.0019,0.0047
+Central Lawrenceville,central-lawrenceville,42003090100,672298.0,0.2692,1.0
+Central Lawrenceville,central-lawrenceville,42003090200,441855.0,0.1769,1.0
+Central Lawrenceville,central-lawrenceville,42003100500,6283.0,0.0025,0.0087
+Central Lawrenceville,central-lawrenceville,42003981000,1377043.0,0.5514,1.0
+Central Northside,central-northside,42003220600,428877.0,0.6376,1.0
+Central Northside,central-northside,42003250300,243738.0,0.3624,1.0
+Central Oakland,central-oakland,42003040500,471939.0,0.6509,1.0
+Central Oakland,central-oakland,42003040600,253063.0,0.3491,1.0
+Chartiers City,chartiers-city,42003563000,342657.0,1.0,0.0869
+Chateau,chateau,42003980600,981438.0,1.0,0.9987
+Crafton Heights,crafton-heights,42003281400,1328970.0,0.6829,1.0
+Crafton Heights,crafton-heights,42003281500,617104.0,0.3171,1.0
+Crawford-Roberts,crawford-roberts,42003020100,1941.0,0.0029,0.0012
+Crawford-Roberts,crawford-roberts,42003030500,664447.0,0.991,0.9953
+Crawford-Roberts,crawford-roberts,42003040200,4102.0,0.0061,0.0067
+Duquesne Heights,duquesne-heights,42003190300,2766.0,0.0017,0.0033
+Duquesne Heights,duquesne-heights,42003191100,1599940.0,0.9957,0.9972
+Duquesne Heights,duquesne-heights,42003191400,695.0,0.0004,0.0007
+Duquesne Heights,duquesne-heights,42003191600,3439.0,0.0021,0.0014
+East Allegheny,east-allegheny,42003262000,1801.0,0.0029,0.0011
+East Allegheny,east-allegheny,42003563200,609073.0,0.9971,0.6578
+East Carnegie,east-carnegie,42003562800,1122222.0,1.0,0.6319
+East Hills,east-hills,42003130100,229.0,0.0002,0.0003
+East Hills,east-hills,42003130600,1402773.0,0.9998,1.0
+East Liberty,east-liberty,42003070800,2976.0,0.002,0.0066
+East Liberty,east-liberty,42003100500,3677.0,0.0024,0.0051
+East Liberty,east-liberty,42003111300,537381.0,0.3573,1.0
+East Liberty,east-liberty,42003111500,959979.0,0.6383,1.0
+Elliott,elliott,42003562600,1589344.0,1.0,0.7562
+Esplen,esplen,42003562500,602805.0,1.0,0.297
+Fairywood,fairywood,42003563000,2520263.0,1.0,0.6394
+Fineview,fineview,42003250900,643563.0,0.9975,1.0
+Fineview,fineview,42003262000,1641.0,0.0025,0.001
+Friendship,friendship,42003080700,275058.0,1.0,1.0
+Garfield,garfield,42003101600,464605.0,0.3922,1.0
+Garfield,garfield,42003101700,392498.0,0.3313,1.0
+Garfield,garfield,42003111400,327622.0,0.2765,1.0
+Glen Hazel,glen-hazel,42003141400,7613.0,0.0063,0.0037
+Glen Hazel,glen-hazel,42003562300,1197694.0,0.9937,0.3843
+Greenfield,greenfield,42003151600,798833.0,0.4016,0.9736
+Greenfield,greenfield,42003151700,1189488.0,0.598,0.9999
+Greenfield,greenfield,42003980800,639.0,0.0003,0.0016
+Hays,hays,42003562900,4479605.0,1.0,0.6708
+Hazelwood,hazelwood,42003141400,4778.0,0.0012,0.0023
+Hazelwood,hazelwood,42003151700,63.0,0.0,0.0001
+Hazelwood,hazelwood,42003562300,1918510.0,0.4665,0.6157
+Hazelwood,hazelwood,42003562900,2188795.0,0.5323,0.3278
+Highland Park,highland-park,42003101400,41.0,0.0,0.0
+Highland Park,highland-park,42003110200,806390.0,0.281,0.9894
+Highland Park,highland-park,42003110600,635177.0,0.2214,1.0
+Highland Park,highland-park,42003980100,1427776.0,0.4976,0.9909
+Homewood North,homewood-north,42003130100,771921.0,0.689,0.9997
+Homewood North,homewood-north,42003130200,348488.0,0.311,1.0
+Homewood South,homewood-south,42003130300,546308.0,0.5357,1.0
+Homewood South,homewood-south,42003130400,473501.0,0.4643,0.9987
+Homewood West,homewood-west,42003120700,515128.0,1.0,1.0
+Knoxville,knoxville,42003300100,775241.0,0.9989,0.9995
+Knoxville,knoxville,42003562400,853.0,0.0011,0.0005
+Larimer,larimer,42003120400,436769.0,0.3788,1.0
+Larimer,larimer,42003120800,716122.0,0.6212,1.0
+Lincoln Place,lincoln-place,42003310200,2541919.0,1.0,1.0
+Lincoln-Lemington-Belmar,lincoln-lemington-belmar,42003120300,1080487.0,0.2347,1.0
+Lincoln-Lemington-Belmar,lincoln-lemington-belmar,42003561900,1250280.0,0.2716,1.0
+Lincoln-Lemington-Belmar,lincoln-lemington-belmar,42003980000,620758.0,0.1348,1.0
+Lincoln-Lemington-Belmar,lincoln-lemington-belmar,42003981800,1652680.0,0.359,1.0
+Lower Lawrenceville,lower-lawrenceville,42003060300,1116315.0,1.0,0.9973
+Manchester,manchester,42003210700,723091.0,1.0,1.0
+Marshall-Shadeland,marshall-shadeland,42003261500,35204.0,0.0109,0.0303
+Marshall-Shadeland,marshall-shadeland,42003270400,395541.0,0.1222,1.0
+Marshall-Shadeland,marshall-shadeland,42003271500,1360646.0,0.4203,0.9947
+Marshall-Shadeland,marshall-shadeland,42003980900,1445639.0,0.4466,1.0
+Middle Hill,middle-hill,42003050100,790374.0,1.0,1.0
+Morningside,morningside,42003101400,965392.0,0.978,1.0
+Morningside,morningside,42003110200,8616.0,0.0087,0.0106
+Morningside,morningside,42003980100,13105.0,0.0133,0.0091
+Mount Washington,mount-washington,42003180700,392889.0,0.1326,1.0
+Mount Washington,mount-washington,42003190300,833558.0,0.2813,0.9967
+Mount Washington,mount-washington,42003191100,510.0,0.0002,0.0003
+Mount Washington,mount-washington,42003191400,944591.0,0.3188,0.9993
+Mount Washington,mount-washington,42003191500,791491.0,0.2671,0.9782
+Mount Washington,mount-washington,42003562400,111.0,0.0,0.0001
+Mount Washington,mount-washington,42003980700,45.0,0.0,0.0001
+Mt. Oliver,mt-oliver,42003561700,268306.0,1.0,0.2494
+New Homestead,new-homestead,42003310300,2048522.0,0.9956,1.0
+New Homestead,new-homestead,42003562900,8992.0,0.0044,0.0013
+North Oakland,north-oakland,42003040400,188796.0,0.1473,0.9465
+North Oakland,north-oakland,42003562000,586939.0,0.458,1.0
+North Oakland,north-oakland,42003982200,505672.0,0.3946,1.0
+North Shore,north-shore,42003562700,12586.0,0.0159,0.0138
+North Shore,north-shore,42003563200,316619.0,0.4001,0.3419
+North Shore,north-shore,42003980600,1314.0,0.0017,0.0013
+North Shore,north-shore,42003981200,460856.0,0.5823,1.0
+Northview Heights,northview-heights,42003260900,811531.0,1.0,0.9994
+Oakwood,oakwood,42003562800,653726.0,1.0,0.3681
+Overbrook,overbrook,42003320400,853141.0,0.3926,1.0
+Overbrook,overbrook,42003320600,4581.0,0.0021,0.0031
+Overbrook,overbrook,42003320700,1315372.0,0.6053,1.0
+Perry North,perry-north,42003260200,1345937.0,0.4308,0.9406
+Perry North,perry-north,42003260700,671876.0,0.2151,1.0
+Perry North,perry-north,42003980400,1106408.0,0.3541,1.0
+Perry South,perry-south,42003261400,1212049.0,0.5167,1.0
+Perry South,perry-south,42003261500,1126381.0,0.4802,0.9697
+Perry South,perry-south,42003271500,7202.0,0.0031,0.0053
+Point Breeze,point-breeze,42003140400,834344.0,0.321,1.0
+Point Breeze,point-breeze,42003140600,888067.0,0.3417,1.0
+Point Breeze,point-breeze,42003981100,876833.0,0.3373,1.0
+Point Breeze North,point-breeze-north,42003130400,625.0,0.0008,0.0013
+Point Breeze North,point-breeze-north,42003140500,755685.0,0.9992,1.0
+Polish Hill,polish-hill,42003050900,918.0,0.0014,0.002
+Polish Hill,polish-hill,42003060500,657516.0,0.9986,1.0
+Regent Square,regent-square,42003141000,507898.0,1.0,1.0
+Ridgemont,ridgemont,42003191600,12270.0,0.0129,0.0051
+Ridgemont,ridgemont,42003202300,10611.0,0.0112,0.0042
+Ridgemont,ridgemont,42003563100,928505.0,0.9759,0.3417
+Shadyside,shadyside,42003040400,7861.0,0.0033,0.0394
+Shadyside,shadyside,42003070300,428548.0,0.1792,1.0
+Shadyside,shadyside,42003070500,412753.0,0.1726,1.0
+Shadyside,shadyside,42003070600,289740.0,0.1212,1.0
+Shadyside,shadyside,42003070800,448989.0,0.1878,0.9934
+Shadyside,shadyside,42003070900,803227.0,0.3359,1.0
+Sheraden,sheraden,42003202200,881778.0,0.382,1.0
+Sheraden,sheraden,42003562500,1426508.0,0.618,0.703
+Sheraden,sheraden,42003563000,136.0,0.0001,0.0
+South Oakland,south-oakland,42003040900,920943.0,0.6973,1.0
+South Oakland,south-oakland,42003562900,300.0,0.0002,0.0
+South Oakland,south-oakland,42003980800,399452.0,0.3025,0.9984
+South Shore,south-shore,42003980700,527191.0,1.0,0.9959
+South Side Flats,south-side-flats,42003160900,1250835.0,0.5259,1.0
+South Side Flats,south-side-flats,42003170200,1106761.0,0.4653,0.9928
+South Side Flats,south-side-flats,42003561600,20850.0,0.0088,0.0133
+South Side Slopes,south-side-slopes,42003160800,973177.0,0.5416,0.9241
+South Side Slopes,south-side-slopes,42003170200,8064.0,0.0045,0.0072
+South Side Slopes,south-side-slopes,42003170600,807707.0,0.4495,1.0
+South Side Slopes,south-side-slopes,42003180300,7777.0,0.0043,0.0101
+Spring Garden,spring-garden,42003241200,682292.0,0.9897,1.0
+Spring Garden,spring-garden,42003262000,6793.0,0.0099,0.0041
+Spring Garden,spring-garden,42003563200,287.0,0.0004,0.0003
+Spring Hill-City View,spring-hill-city-view,42003262000,1636235.0,1.0,0.9938
+Squirrel Hill North,squirrel-hill-north,42003040400,2805.0,0.0009,0.0141
+Squirrel Hill North,squirrel-hill-north,42003140100,1465568.0,0.4624,1.0
+Squirrel Hill North,squirrel-hill-north,42003140200,759487.0,0.2396,1.0
+Squirrel Hill North,squirrel-hill-north,42003140300,941737.0,0.2971,1.0
+Squirrel Hill South,squirrel-hill-south,42003140800,1089075.0,0.157,1.0
+Squirrel Hill South,squirrel-hill-south,42003141000,5.0,0.0,0.0
+Squirrel Hill South,squirrel-hill-south,42003141300,898033.0,0.1295,1.0
+Squirrel Hill South,squirrel-hill-south,42003141400,2029065.0,0.2926,0.9901
+Squirrel Hill South,squirrel-hill-south,42003151600,21672.0,0.0031,0.0264
+Squirrel Hill South,squirrel-hill-south,42003980300,1294099.0,0.1866,1.0
+Squirrel Hill South,squirrel-hill-south,42003980500,1603807.0,0.2312,1.0
+St. Clair,st-clair,42003561700,807077.0,1.0,0.7503
+Stanton Heights,stanton-heights,42003100500,714306.0,0.3737,0.9862
+Stanton Heights,stanton-heights,42003101800,1197090.0,0.6263,1.0
+Strip District,strip-district,42003020300,1592097.0,1.0,0.9994
+Summer Hill,summer-hill,42003260200,84958.0,0.0744,0.0594
+Summer Hill,summer-hill,42003260900,505.0,0.0004,0.0006
+Summer Hill,summer-hill,42003261200,1055897.0,0.9251,1.0
+Swisshelm Park,swisshelm-park,42003141100,1225822.0,0.9936,1.0
+Swisshelm Park,swisshelm-park,42003141400,7850.0,0.0064,0.0038
+Terrace Village,terrace-village,42003040200,63116.0,0.0709,0.1029
+Terrace Village,terrace-village,42003051000,643937.0,0.723,1.0
+Terrace Village,terrace-village,42003051100,183645.0,0.2062,1.0
+Troy Hill,troy-hill,42003240600,1225413.0,1.0,1.0
+Upper Hill,upper-hill,42003050600,806320.0,1.0,1.0
+Upper Lawrenceville,upper-lawrenceville,42003101100,1049682.0,1.0,1.0
+West End,west-end,42003191100,3978.0,0.0077,0.0025
+West End,west-end,42003562600,512433.0,0.9883,0.2438
+West End,west-end,42003980700,2099.0,0.004,0.004
+West Oakland,west-oakland,42003040200,546033.0,1.0,0.8904
+Westwood,westwood,42003563100,1789113.0,1.0,0.6583
+Windgap,windgap,42003563000,1078721.0,1.0,0.2737

@@ -1,0 +1,186 @@
+neighborhood,neighborhood_id,zip,land_m2,share_of_neighborhood_land,share_of_zip_land
+Allegheny Center,allegheny-center,15212,535964.0,1.0,0.0333
+Allegheny West,allegheny-west,15212,203067.0,0.5612,0.0126
+Allegheny West,allegheny-west,15233,158762.0,0.4388,0.0493
+Allentown,allentown,15203,198620.0,0.2593,0.0518
+Allentown,allentown,15210,567371.0,0.7407,0.0472
+Arlington,arlington,15210,1275569.0,1.0,0.1061
+Arlington Heights,arlington-heights,15203,79967.0,0.2257,0.0209
+Arlington Heights,arlington-heights,15210,274276.0,0.7743,0.0228
+Banksville,banksville,15216,998478.0,0.3979,0.1126
+Banksville,banksville,15220,1510637.0,0.6021,0.1181
+Bedford Dwellings,bedford-dwellings,15219,461742.0,1.0,0.0772
+Beechview,beechview,15216,3657164.0,0.9679,0.4125
+Beechview,beechview,15226,121430.0,0.0321,0.0185
+Beltzhoover,beltzhoover,15210,1067461.0,0.9832,0.0888
+Beltzhoover,beltzhoover,15211,18192.0,0.0168,0.0045
+Bloomfield,bloomfield,15206,49122.0,0.027,0.004
+Bloomfield,bloomfield,15213,204063.0,0.1122,0.037
+Bloomfield,bloomfield,15224,1460141.0,0.8029,0.5601
+Bloomfield,bloomfield,15232,105315.0,0.0579,0.0512
+Bluff,bluff,15219,860169.0,1.0,0.1439
+Bon Air,bon-air,15210,658447.0,0.8057,0.0548
+Bon Air,bon-air,15226,158748.0,0.1943,0.0242
+Brighton Heights,brighton-heights,15212,2915331.0,1.0,0.1809
+Brookline,brookline,15210,395636.0,0.0733,0.0329
+Brookline,brookline,15216,14172.0,0.0026,0.0016
+Brookline,brookline,15226,4986258.0,0.9241,0.7598
+California-Kirkbride,california-kirkbride,15212,456707.0,0.8151,0.0283
+California-Kirkbride,california-kirkbride,15290,103613.0,0.1849,1.0
+Carrick,carrick,15210,3509429.0,0.8104,0.2919
+Carrick,carrick,15226,6063.0,0.0014,0.0009
+Carrick,carrick,15227,815071.0,0.1882,0.0509
+Central Business District,central-business-district,15219,729752.0,0.4339,0.1221
+Central Business District,central-business-district,15222,952172.0,0.5661,0.4523
+Central Lawrenceville,central-lawrenceville,15201,2464207.0,0.9867,0.3837
+Central Lawrenceville,central-lawrenceville,15224,33272.0,0.0133,0.0128
+Central Northside,central-northside,15212,562608.0,0.8364,0.0349
+Central Northside,central-northside,15233,110007.0,0.1636,0.0342
+Central Oakland,central-oakland,15213,618305.0,0.8528,0.112
+Central Oakland,central-oakland,15260,106697.0,0.1472,0.509
+Chartiers City,chartiers-city,15204,342657.0,1.0,0.0709
+Chateau,chateau,15212,207070.0,0.211,0.0128
+Chateau,chateau,15233,774368.0,0.789,0.2405
+Crafton Heights,crafton-heights,15204,510134.0,0.2621,0.1056
+Crafton Heights,crafton-heights,15205,848325.0,0.4359,0.0318
+Crafton Heights,crafton-heights,15220,587615.0,0.3019,0.046
+Crawford-Roberts,crawford-roberts,15219,670490.0,1.0,0.1122
+Duquesne Heights,duquesne-heights,15211,1328026.0,0.8265,0.3316
+Duquesne Heights,duquesne-heights,15216,3439.0,0.0021,0.0004
+Duquesne Heights,duquesne-heights,15220,275375.0,0.1714,0.0215
+East Allegheny,east-allegheny,15212,610874.0,1.0,0.0379
+East Carnegie,east-carnegie,15106,272736.0,0.243,0.0094
+East Carnegie,east-carnegie,15205,849486.0,0.757,0.0319
+East Hills,east-hills,15208,30826.0,0.022,0.0074
+East Hills,east-hills,15221,1266743.0,0.9029,0.0796
+East Hills,east-hills,15235,105433.0,0.0751,0.0028
+East Liberty,east-liberty,15206,1487896.0,0.9893,0.1203
+East Liberty,east-liberty,15224,3677.0,0.0024,0.0014
+East Liberty,east-liberty,15232,12440.0,0.0083,0.006
+Elliott,elliott,15219,31019.0,0.0195,0.0052
+Elliott,elliott,15220,1558325.0,0.9805,0.1219
+Esplen,esplen,15204,602805.0,1.0,0.1248
+Fairywood,fairywood,15205,2520263.0,1.0,0.0945
+Fineview,fineview,15212,419833.0,0.6507,0.026
+Fineview,fineview,15214,225371.0,0.3493,0.0185
+Friendship,friendship,15206,146109.0,0.5312,0.0118
+Friendship,friendship,15232,128949.0,0.4688,0.0626
+Garfield,garfield,15206,343507.0,0.2899,0.0278
+Garfield,garfield,15224,841218.0,0.7101,0.3227
+Glen Hazel,glen-hazel,15207,1195969.0,0.9923,0.0963
+Glen Hazel,glen-hazel,15217,9338.0,0.0077,0.0009
+Greenfield,greenfield,15207,895541.0,0.4503,0.0721
+Greenfield,greenfield,15217,1092780.0,0.5494,0.1108
+Greenfield,greenfield,15219,639.0,0.0003,0.0001
+Hays,hays,15207,1693832.0,0.3781,0.1364
+Hays,hays,15236,2785773.0,0.6219,0.0969
+Hazelwood,hazelwood,15207,3433577.0,0.835,0.2765
+Hazelwood,hazelwood,15217,678569.0,0.165,0.0688
+Highland Park,highland-park,15206,2869384.0,1.0,0.232
+Homewood North,homewood-north,15206,55520.0,0.0496,0.0045
+Homewood North,homewood-north,15208,847582.0,0.7565,0.2034
+Homewood North,homewood-north,15221,217307.0,0.194,0.0136
+Homewood South,homewood-south,15208,954798.0,0.9363,0.2291
+Homewood South,homewood-south,15221,65011.0,0.0637,0.0041
+Homewood West,homewood-west,15206,85229.0,0.1655,0.0069
+Homewood West,homewood-west,15208,429899.0,0.8345,0.1032
+Knoxville,knoxville,15210,776094.0,1.0,0.0646
+Larimer,larimer,15206,1152891.0,1.0,0.0932
+Lincoln Place,lincoln-place,15120,127067.0,0.05,0.0105
+Lincoln Place,lincoln-place,15207,2414852.0,0.95,0.1945
+Lincoln-Lemington-Belmar,lincoln-lemington-belmar,15206,3855297.0,0.8373,0.3117
+Lincoln-Lemington-Belmar,lincoln-lemington-belmar,15215,450434.0,0.0978,0.0283
+Lincoln-Lemington-Belmar,lincoln-lemington-belmar,15235,128150.0,0.0278,0.0034
+Lincoln-Lemington-Belmar,lincoln-lemington-belmar,15238,170324.0,0.037,0.004
+Lower Lawrenceville,lower-lawrenceville,15201,977241.0,0.8754,0.1522
+Lower Lawrenceville,lower-lawrenceville,15224,139074.0,0.1246,0.0533
+Manchester,manchester,15233,723091.0,1.0,0.2246
+Marshall-Shadeland,marshall-shadeland,15212,1756187.0,0.5425,0.109
+Marshall-Shadeland,marshall-shadeland,15214,35204.0,0.0109,0.0029
+Marshall-Shadeland,marshall-shadeland,15233,1445639.0,0.4466,0.449
+Middle Hill,middle-hill,15219,790374.0,1.0,0.1322
+Morningside,morningside,15201,43473.0,0.044,0.0068
+Morningside,morningside,15206,943640.0,0.956,0.0763
+Mount Washington,mount-washington,15203,75378.0,0.0254,0.0197
+Mount Washington,mount-washington,15210,77542.0,0.0262,0.0064
+Mount Washington,mount-washington,15211,2658382.0,0.8971,0.6638
+Mount Washington,mount-washington,15219,37120.0,0.0125,0.0062
+Mount Washington,mount-washington,15220,510.0,0.0002,0.0
+Mount Washington,mount-washington,15226,114263.0,0.0386,0.0174
+Mt. Oliver,mt-oliver,15210,268306.0,1.0,0.0223
+New Homestead,new-homestead,15120,1409836.0,0.6852,0.1165
+New Homestead,new-homestead,15207,647678.0,0.3148,0.0522
+North Oakland,north-oakland,15213,1178484.0,0.9197,0.2135
+North Oakland,north-oakland,15260,102923.0,0.0803,0.491
+North Shore,north-shore,15212,791375.0,1.0,0.0491
+Northview Heights,northview-heights,15214,811531.0,1.0,0.0667
+Oakwood,oakwood,15205,653726.0,1.0,0.0245
+Overbrook,overbrook,15210,366304.0,0.1686,0.0305
+Overbrook,overbrook,15226,89555.0,0.0412,0.0136
+Overbrook,overbrook,15227,487373.0,0.2243,0.0304
+Overbrook,overbrook,15234,1229862.0,0.5659,0.15
+Perry North,perry-north,15214,3124221.0,1.0,0.2567
+Perry South,perry-south,15212,57150.0,0.0244,0.0035
+Perry South,perry-south,15214,2288482.0,0.9756,0.188
+Point Breeze,point-breeze,15206,397573.0,0.153,0.0321
+Point Breeze,point-breeze,15208,1132707.0,0.4358,0.2718
+Point Breeze,point-breeze,15217,695423.0,0.2675,0.0705
+Point Breeze,point-breeze,15221,330528.0,0.1272,0.0208
+Point Breeze,point-breeze,15232,43013.0,0.0165,0.0209
+Point Breeze North,point-breeze-north,15208,738696.0,0.9767,0.1772
+Point Breeze North,point-breeze-north,15221,17614.0,0.0233,0.0011
+Polish Hill,polish-hill,15201,151851.0,0.2306,0.0236
+Polish Hill,polish-hill,15213,211063.0,0.3206,0.0382
+Polish Hill,polish-hill,15219,295520.0,0.4488,0.0494
+Regent Square,regent-square,15218,350426.0,0.69,0.0571
+Regent Square,regent-square,15221,157472.0,0.31,0.0099
+Ridgemont,ridgemont,15216,12270.0,0.0129,0.0014
+Ridgemont,ridgemont,15220,939116.0,0.9871,0.0734
+Shadyside,shadyside,15206,671232.0,0.2807,0.0543
+Shadyside,shadyside,15213,428574.0,0.1792,0.0776
+Shadyside,shadyside,15224,19424.0,0.0081,0.0075
+Shadyside,shadyside,15232,1271888.0,0.5319,0.6178
+Sheraden,sheraden,15204,2298032.0,0.9955,0.4758
+Sheraden,sheraden,15220,10390.0,0.0045,0.0008
+South Oakland,south-oakland,15207,300.0,0.0002,0.0
+South Oakland,south-oakland,15213,920943.0,0.6973,0.1669
+South Oakland,south-oakland,15219,399452.0,0.3025,0.0668
+South Shore,south-shore,15203,35062.0,0.0665,0.0091
+South Shore,south-shore,15219,492129.0,0.9335,0.0823
+South Side Flats,south-side-flats,15203,2230235.0,0.9377,0.5819
+South Side Flats,south-side-flats,15210,95311.0,0.0401,0.0079
+South Side Flats,south-side-flats,15219,52900.0,0.0222,0.0088
+South Side Slopes,south-side-slopes,15203,1213651.0,0.6755,0.3166
+South Side Slopes,south-side-slopes,15210,583074.0,0.3245,0.0485
+Spring Garden,spring-garden,15212,689372.0,1.0,0.0428
+Spring Hill-City View,spring-hill-city-view,15212,1610167.0,0.9841,0.0999
+Spring Hill-City View,spring-hill-city-view,15214,26068.0,0.0159,0.0021
+Squirrel Hill North,squirrel-hill-north,15213,642328.0,0.2027,0.1164
+Squirrel Hill North,squirrel-hill-north,15217,2030216.0,0.6405,0.2059
+Squirrel Hill North,squirrel-hill-north,15232,497053.0,0.1568,0.2414
+Squirrel Hill South,squirrel-hill-south,15207,1625479.0,0.2344,0.1309
+Squirrel Hill South,squirrel-hill-south,15217,5310277.0,0.7656,0.5387
+St. Clair,st-clair,15210,807077.0,1.0,0.0671
+Stanton Heights,stanton-heights,15201,1488923.0,0.779,0.2318
+Stanton Heights,stanton-heights,15206,312254.0,0.1634,0.0252
+Stanton Heights,stanton-heights,15224,110219.0,0.0577,0.0423
+Strip District,strip-district,15201,246463.0,0.1548,0.0384
+Strip District,strip-district,15219,193259.0,0.1214,0.0323
+Strip District,strip-district,15222,1152375.0,0.7238,0.5474
+Summer Hill,summer-hill,15214,1141360.0,1.0,0.0938
+Swisshelm Park,swisshelm-park,15217,41709.0,0.0338,0.0042
+Swisshelm Park,swisshelm-park,15218,1191963.0,0.9662,0.1941
+Terrace Village,terrace-village,15213,571335.0,0.6414,0.1035
+Terrace Village,terrace-village,15219,319363.0,0.3586,0.0534
+Troy Hill,troy-hill,15212,1225413.0,1.0,0.076
+Upper Hill,upper-hill,15213,249083.0,0.3089,0.0451
+Upper Hill,upper-hill,15219,557237.0,0.6911,0.0932
+Upper Lawrenceville,upper-lawrenceville,15201,1049682.0,1.0,0.1635
+West End,west-end,15219,2099.0,0.004,0.0004
+West End,west-end,15220,516411.0,0.996,0.0404
+West Oakland,west-oakland,15213,495217.0,0.9069,0.0897
+West Oakland,west-oakland,15219,50816.0,0.0931,0.0085
+Westwood,westwood,15205,1128207.0,0.6306,0.0423
+Westwood,westwood,15220,660906.0,0.3694,0.0517
+Windgap,windgap,15204,1065654.0,0.9879,0.2206
+Windgap,windgap,15205,13067.0,0.0121,0.0005

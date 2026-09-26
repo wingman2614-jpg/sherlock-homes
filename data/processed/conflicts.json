@@ -1,0 +1,276 @@
+{
+ "national": [
+  {
+   "id": "national-home-sales",
+   "scope": "national",
+   "geography": "United States (both sources)",
+   "concept": "Home sales",
+   "sources": [
+    {
+     "label": "Zillow sales count (nowcast)",
+     "source_id": "zillow_sales",
+     "file": "Metro_sales_count_now_uc_sfrcondo_month.csv"
+    },
+    {
+     "label": "Redfin homes sold",
+     "source_id": "redfin_national",
+     "file": "redfin_housing_market_monthly_all_country_key_metrics_2012_Jan_to_2026_Aug.csv"
+    }
+   ],
+   "comparisons": [
+    {
+     "window": "1-year",
+     "period_start": "2025-08",
+     "period_end": "2026-08",
+     "zillow_start": 341854.0,
+     "zillow_end": 337190.0,
+     "zillow_change_pct": -0.01364325121250587,
+     "redfin_start": 293083.0,
+     "redfin_end": 291769.0,
+     "redfin_change_pct": -0.004483371604630748,
+     "agreement": "agree"
+    },
+    {
+     "window": "5-year",
+     "period_start": "2021-08",
+     "period_end": "2026-08",
+     "zillow_start": 543420.0,
+     "zillow_end": 337190.0,
+     "zillow_change_pct": -0.3795038828162379,
+     "redfin_start": 404058.0,
+     "redfin_end": 291769.0,
+     "redfin_change_pct": -0.2779031723168456,
+     "agreement": "magnitude"
+    }
+   ],
+   "status": "magnitude",
+   "evidence_agrees_on": [
+    "Over the 1-year window both sources moved in the same direction (down).",
+    "Over the 5-year window both sources moved in the same direction (down)."
+   ],
+   "remains_uncertain": [
+    "The size of the 5-year change: -38.0% (Zillow) vs -27.8% (Redfin)."
+   ],
+   "possible_reasons": [
+    "Zillow's recent months are nowcast estimates that are later revised; Redfin reports recorded closed sales.",
+    "The two providers draw on different listing and public-record coverage."
+   ],
+   "reason_basis": "Reasons are taken from the published definitions/column names of each series. They are possible explanations, not verified causes of the gap."
+  },
+  {
+   "id": "national-homes-for-sale",
+   "scope": "national",
+   "geography": "United States (both sources)",
+   "concept": "Homes for sale",
+   "sources": [
+    {
+     "label": "Zillow for-sale inventory (smoothed)",
+     "source_id": "zillow_inventory",
+     "file": "Metro_invt_fs_uc_sfrcondo_sm_month.csv"
+    },
+    {
+     "label": "Redfin active listings",
+     "source_id": "redfin_national",
+     "file": "redfin_housing_market_monthly_all_country_key_metrics_2012_Jan_to_2026_Aug.csv"
+    }
+   ],
+   "comparisons": [
+    {
+     "window": "1-year",
+     "period_start": "2025-08",
+     "period_end": "2026-08",
+     "zillow_start": 1380205.0,
+     "zillow_end": 1406231.0,
+     "zillow_change_pct": 0.018856619125419805,
+     "redfin_start": 1495159.0,
+     "redfin_end": 1534918.0,
+     "redfin_change_pct": 0.02659182066923993,
+     "agreement": "agree"
+    },
+    {
+     "window": "5-year",
+     "period_start": "2021-08",
+     "period_end": "2026-08",
+     "zillow_start": 1071839.0,
+     "zillow_end": 1406231.0,
+     "zillow_change_pct": 0.3119796909797088,
+     "redfin_start": 1185394.0,
+     "redfin_end": 1534918.0,
+     "redfin_change_pct": 0.29485892454323204,
+     "agreement": "agree"
+    }
+   ],
+   "status": "agree",
+   "evidence_agrees_on": [
+    "Over the 1-year window both sources moved in the same direction (up).",
+    "Over the 5-year window both sources moved in the same direction (up)."
+   ],
+   "remains_uncertain": [
+    "No material disagreement at these windows."
+   ],
+   "possible_reasons": [
+    "Zillow's series is smoothed; Redfin's is not.",
+    "Zillow counts unique listings active during the month."
+   ],
+   "reason_basis": "Reasons are taken from the published definitions/column names of each series. They are possible explanations, not verified causes of the gap."
+  },
+  {
+   "id": "national-home-prices",
+   "scope": "national",
+   "geography": "United States (both sources)",
+   "concept": "Home prices",
+   "sources": [
+    {
+     "label": "Zillow home value index (inferred ZHVI)",
+     "source_id": "zillow_zhvi_inferred",
+     "file": "9a1c60bd-f9f7-4aba-aeb7-af8c3aaa44e5.csv"
+    },
+    {
+     "label": "Redfin median sale price (not seasonally adjusted)",
+     "source_id": "redfin_national",
+     "file": "redfin_housing_market_monthly_all_country_key_metrics_2012_Jan_to_2026_Aug.csv"
+    }
+   ],
+   "comparisons": [
+    {
+     "window": "1-year",
+     "period_start": "2025-08",
+     "period_end": "2026-08",
+     "zillow_start": 364424.1889163169,
+     "zillow_end": 368696.6847491317,
+     "zillow_change_pct": 0.011723963344803856,
+     "redfin_start": 390000.0,
+     "redfin_end": 398596.0,
+     "redfin_change_pct": 0.022041025641025724,
+     "agreement": "agree"
+    },
+    {
+     "window": "5-year",
+     "period_start": "2021-08",
+     "period_end": "2026-08",
+     "zillow_start": 306368.044190239,
+     "zillow_end": 368696.6847491317,
+     "zillow_change_pct": 0.20344367417180687,
+     "redfin_start": 336000.0,
+     "redfin_end": 398596.0,
+     "redfin_change_pct": 0.1862976190476191,
+     "agreement": "agree"
+    }
+   ],
+   "status": "agree",
+   "evidence_agrees_on": [
+    "Over the 1-year window both sources moved in the same direction (up).",
+    "Over the 5-year window both sources moved in the same direction (up)."
+   ],
+   "remains_uncertain": [
+    "No material disagreement at these windows."
+   ],
+   "possible_reasons": [
+    "An index of typical home values (all homes, smoothed, seasonally adjusted) vs. the median price of homes that actually sold that month.",
+    "The mix of homes that sell changes month to month; an index tries to hold the mix constant."
+   ],
+   "reason_basis": "Reasons are taken from the published definitions/column names of each series. They are possible explanations, not verified causes of the gap."
+  },
+  {
+   "id": "national-speed-of-sale",
+   "scope": "national",
+   "geography": "United States (both sources)",
+   "concept": "Speed of sale",
+   "sources": [
+    {
+     "label": "Zillow mean days to pending",
+     "source_id": "zillow_days_pending",
+     "file": "Metro_mean_doz_pending_uc_sfrcondo_sm_month.csv"
+    },
+    {
+     "label": "Redfin median days on market",
+     "source_id": "redfin_national",
+     "file": "redfin_housing_market_monthly_all_country_key_metrics_2012_Jan_to_2026_Aug.csv"
+    }
+   ],
+   "comparisons": [
+    {
+     "window": "1-year",
+     "period_start": "2025-08",
+     "period_end": "2026-08",
+     "zillow_start": 50.0,
+     "zillow_end": 53.0,
+     "zillow_change_pct": 0.06000000000000005,
+     "redfin_start": 49.0,
+     "redfin_end": 50.0,
+     "redfin_change_pct": 0.020408163265306145,
+     "agreement": "magnitude"
+    },
+    {
+     "window": "5-year",
+     "period_start": "2021-08",
+     "period_end": "2026-08",
+     "zillow_start": 22.0,
+     "zillow_end": 53.0,
+     "zillow_change_pct": 1.4090909090909092,
+     "redfin_start": 31.0,
+     "redfin_end": 50.0,
+     "redfin_change_pct": 0.6129032258064515,
+     "agreement": "magnitude"
+    }
+   ],
+   "status": "magnitude",
+   "evidence_agrees_on": [
+    "Over the 1-year window both sources moved in the same direction (up).",
+    "Over the 5-year window both sources moved in the same direction (up)."
+   ],
+   "remains_uncertain": [
+    "The size of the 1-year change: +6.0% (Zillow) vs +2.0% (Redfin).",
+    "The size of the 5-year change: +140.9% (Zillow) vs +61.3% (Redfin)."
+   ],
+   "possible_reasons": [
+    "Mean vs. median: a few slow-selling homes raise a mean more than a median.",
+    "Days to pending vs. days on market measure different end points."
+   ],
+   "reason_basis": "Reasons are taken from the published definitions/column names of each series. They are possible explanations, not verified causes of the gap."
+  }
+ ],
+ "citywide_and_regional": [
+  {
+   "id": "supply-city-vs-metro",
+   "scope": "city vs metro",
+   "concept": "New housing supply",
+   "geography": "City of Pittsburgh (permits) vs. 7-county Pittsburgh metro (Zillow)",
+   "sources": [
+    {
+     "label": "City residential new-construction permits",
+     "source_id": "pli_permits",
+     "file": "pli_permits.csv",
+     "geography": "City of Pittsburgh",
+     "baseline": 227.0,
+     "recent": 202.0,
+     "change_pct": -0.11013215859030834
+    },
+    {
+     "label": "Zillow new-construction sales",
+     "source_id": "zillow_newcon_sales",
+     "file": "Metro_new_con_sales_count_raw_uc_sfrcondo_month.csv",
+     "geography": "Pittsburgh metro (7 counties)",
+     "baseline": 7053.0,
+     "recent": 3869.0,
+     "change_pct": -0.4514391039274068
+    }
+   ],
+   "baseline_period": "2020\u20132022",
+   "recent_period": "2023\u20132025",
+   "status": "magnitude",
+   "evidence_agrees_on": [
+    "Both measures of new construction declined between the two periods."
+   ],
+   "remains_uncertain": [
+    "How much new-home activity changed: -11.0% (City permits) vs -45.1% (metro new-home sales)."
+   ],
+   "possible_reasons": [
+    "Different geography: the City of Pittsburgh vs. a 7-county metro area where most new homes are built outside the City.",
+    "Different stage of the pipeline: a permit is issued before construction; a new-construction sale happens after completion, often a year or more later.",
+    "Different units: permits do not record dwelling units; sales count homes."
+   ],
+   "reason_basis": "Reasons come from dataset definitions and coverage. They are possible explanations, not measured causes."
+  }
+ ]
+}

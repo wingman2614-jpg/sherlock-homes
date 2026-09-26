@@ -1,0 +1,1729 @@
+{
+ "neighborhoods": {
+  "Allegheny Center": {
+   "blocks": 19,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Allegheny West": {
+   "blocks": 24,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Allentown": {
+   "blocks": 117,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Arlington": {
+   "blocks": 69,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Arlington Heights": {
+   "blocks": 8,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Banksville": {
+   "blocks": 48,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Bedford Dwellings": {
+   "blocks": 22,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Beechview": {
+   "blocks": 163,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Beltzhoover": {
+   "blocks": 142,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Bloomfield": {
+   "blocks": 192,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Bluff": {
+   "blocks": 88,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Bon Air": {
+   "blocks": 28,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Brighton Heights": {
+   "blocks": 167,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Brookline": {
+   "blocks": 272,
+   "rings": 1,
+   "polygons": 1
+  },
+  "California-Kirkbride": {
+   "blocks": 60,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Carrick": {
+   "blocks": 299,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Central Business District": {
+   "blocks": 196,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Central Lawrenceville": {
+   "blocks": 207,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Central Northside": {
+   "blocks": 112,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Central Oakland": {
+   "blocks": 67,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Chartiers City": {
+   "blocks": 24,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Chateau": {
+   "blocks": 45,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Crafton Heights": {
+   "blocks": 97,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Crawford-Roberts": {
+   "blocks": 71,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Duquesne Heights": {
+   "blocks": 121,
+   "rings": 1,
+   "polygons": 1
+  },
+  "East Allegheny": {
+   "blocks": 128,
+   "rings": 1,
+   "polygons": 1
+  },
+  "East Carnegie": {
+   "blocks": 48,
+   "rings": 1,
+   "polygons": 1
+  },
+  "East Hills": {
+   "blocks": 83,
+   "rings": 1,
+   "polygons": 1
+  },
+  "East Liberty": {
+   "blocks": 137,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Elliott": {
+   "blocks": 162,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Esplen": {
+   "blocks": 40,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Fairywood": {
+   "blocks": 24,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Fineview": {
+   "blocks": 73,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Friendship": {
+   "blocks": 26,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Garfield": {
+   "blocks": 91,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Glen Hazel": {
+   "blocks": 18,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Greenfield": {
+   "blocks": 171,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Hays": {
+   "blocks": 40,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Hazelwood": {
+   "blocks": 201,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Highland Park": {
+   "blocks": 155,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Homewood North": {
+   "blocks": 90,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Homewood South": {
+   "blocks": 141,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Homewood West": {
+   "blocks": 46,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Knoxville": {
+   "blocks": 120,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Larimer": {
+   "blocks": 107,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Lincoln Place": {
+   "blocks": 109,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Lincoln-Lemington-Belmar": {
+   "blocks": 159,
+   "rings": 2,
+   "polygons": 2
+  },
+  "Lower Lawrenceville": {
+   "blocks": 96,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Manchester": {
+   "blocks": 83,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Marshall-Shadeland": {
+   "blocks": 167,
+   "rings": 2,
+   "polygons": 2
+  },
+  "Middle Hill": {
+   "blocks": 91,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Morningside": {
+   "blocks": 100,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Mount Washington": {
+   "blocks": 265,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Mt. Oliver": {
+   "blocks": 19,
+   "rings": 1,
+   "polygons": 1
+  },
+  "New Homestead": {
+   "blocks": 80,
+   "rings": 1,
+   "polygons": 1
+  },
+  "North Oakland": {
+   "blocks": 61,
+   "rings": 1,
+   "polygons": 1
+  },
+  "North Shore": {
+   "blocks": 89,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Northview Heights": {
+   "blocks": 36,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Oakwood": {
+   "blocks": 16,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Overbrook": {
+   "blocks": 124,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Perry North": {
+   "blocks": 99,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Perry South": {
+   "blocks": 168,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Point Breeze": {
+   "blocks": 151,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Point Breeze North": {
+   "blocks": 39,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Polish Hill": {
+   "blocks": 35,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Regent Square": {
+   "blocks": 40,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Ridgemont": {
+   "blocks": 14,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Shadyside": {
+   "blocks": 165,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Sheraden": {
+   "blocks": 218,
+   "rings": 1,
+   "polygons": 1
+  },
+  "South Oakland": {
+   "blocks": 90,
+   "rings": 1,
+   "polygons": 1
+  },
+  "South Shore": {
+   "blocks": 24,
+   "rings": 1,
+   "polygons": 1
+  },
+  "South Side Flats": {
+   "blocks": 216,
+   "rings": 1,
+   "polygons": 1
+  },
+  "South Side Slopes": {
+   "blocks": 165,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Spring Garden": {
+   "blocks": 40,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Spring Hill-City View": {
+   "blocks": 91,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Squirrel Hill North": {
+   "blocks": 118,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Squirrel Hill South": {
+   "blocks": 195,
+   "rings": 1,
+   "polygons": 1
+  },
+  "St. Clair": {
+   "blocks": 14,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Stanton Heights": {
+   "blocks": 87,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Strip District": {
+   "blocks": 133,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Summer Hill": {
+   "blocks": 58,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Swisshelm Park": {
+   "blocks": 42,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Terrace Village": {
+   "blocks": 43,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Troy Hill": {
+   "blocks": 73,
+   "rings": 2,
+   "polygons": 2
+  },
+  "Upper Hill": {
+   "blocks": 46,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Upper Lawrenceville": {
+   "blocks": 76,
+   "rings": 1,
+   "polygons": 1
+  },
+  "West End": {
+   "blocks": 46,
+   "rings": 1,
+   "polygons": 1
+  },
+  "West Oakland": {
+   "blocks": 35,
+   "rings": 2,
+   "polygons": 2
+  },
+  "Westwood": {
+   "blocks": 76,
+   "rings": 1,
+   "polygons": 1
+  },
+  "Windgap": {
+   "blocks": 32,
+   "rings": 1,
+   "polygons": 1
+  }
+ },
+ "tracts": {
+  "42003010300": {
+   "blocks": 97,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003020100": {
+   "blocks": 212,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003020300": {
+   "blocks": 143,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003030500": {
+   "blocks": 67,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003040200": {
+   "blocks": 41,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003040400": {
+   "blocks": 16,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003040500": {
+   "blocks": 41,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003040600": {
+   "blocks": 26,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003040900": {
+   "blocks": 55,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003050100": {
+   "blocks": 91,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003050600": {
+   "blocks": 46,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003050900": {
+   "blocks": 23,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003051000": {
+   "blocks": 27,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003051100": {
+   "blocks": 11,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003060300": {
+   "blocks": 98,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003060500": {
+   "blocks": 34,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003070300": {
+   "blocks": 46,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003070500": {
+   "blocks": 39,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003070600": {
+   "blocks": 26,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003070800": {
+   "blocks": 28,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003070900": {
+   "blocks": 26,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003080200": {
+   "blocks": 43,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003080400": {
+   "blocks": 33,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003080600": {
+   "blocks": 30,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003080700": {
+   "blocks": 26,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003080900": {
+   "blocks": 39,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003090100": {
+   "blocks": 74,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003090200": {
+   "blocks": 63,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003090300": {
+   "blocks": 46,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003100500": {
+   "blocks": 27,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003101100": {
+   "blocks": 80,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003101400": {
+   "blocks": 103,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003101600": {
+   "blocks": 23,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003101700": {
+   "blocks": 52,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003101800": {
+   "blocks": 63,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003110200": {
+   "blocks": 87,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003110600": {
+   "blocks": 41,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003111300": {
+   "blocks": 49,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003111400": {
+   "blocks": 16,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003111500": {
+   "blocks": 85,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003120300": {
+   "blocks": 73,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003120400": {
+   "blocks": 47,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003120700": {
+   "blocks": 46,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003120800": {
+   "blocks": 60,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003130100": {
+   "blocks": 52,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003130200": {
+   "blocks": 39,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003130300": {
+   "blocks": 79,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003130400": {
+   "blocks": 63,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003130600": {
+   "blocks": 83,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003140100": {
+   "blocks": 47,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003140200": {
+   "blocks": 20,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003140300": {
+   "blocks": 50,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003140400": {
+   "blocks": 38,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003140500": {
+   "blocks": 38,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003140600": {
+   "blocks": 68,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003140800": {
+   "blocks": 38,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003141000": {
+   "blocks": 41,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003141100": {
+   "blocks": 46,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003141300": {
+   "blocks": 30,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003141400": {
+   "blocks": 101,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003151600": {
+   "blocks": 79,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003151700": {
+   "blocks": 95,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003160800": {
+   "blocks": 87,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003160900": {
+   "blocks": 82,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003170200": {
+   "blocks": 145,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003170600": {
+   "blocks": 74,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003180300": {
+   "blocks": 121,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003180700": {
+   "blocks": 51,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003190300": {
+   "blocks": 63,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003191100": {
+   "blocks": 121,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003191400": {
+   "blocks": 78,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003191500": {
+   "blocks": 74,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003191600": {
+   "blocks": 93,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003191700": {
+   "blocks": 51,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003191800": {
+   "blocks": 123,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003191900": {
+   "blocks": 55,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003192000": {
+   "blocks": 71,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003202200": {
+   "blocks": 94,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003202300": {
+   "blocks": 51,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003210700": {
+   "blocks": 83,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003220600": {
+   "blocks": 66,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003240600": {
+   "blocks": 80,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003241200": {
+   "blocks": 38,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003250300": {
+   "blocks": 46,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003250700": {
+   "blocks": 60,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003250900": {
+   "blocks": 71,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003260200": {
+   "blocks": 70,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003260700": {
+   "blocks": 32,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003260900": {
+   "blocks": 37,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003261200": {
+   "blocks": 46,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003261400": {
+   "blocks": 87,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003261500": {
+   "blocks": 83,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003262000": {
+   "blocks": 99,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003270100": {
+   "blocks": 65,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003270300": {
+   "blocks": 40,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003270400": {
+   "blocks": 23,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003270800": {
+   "blocks": 63,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003271500": {
+   "blocks": 96,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003281400": {
+   "blocks": 65,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003281500": {
+   "blocks": 32,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003290100": {
+   "blocks": 75,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003290200": {
+   "blocks": 103,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003290400": {
+   "blocks": 121,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003300100": {
+   "blocks": 120,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003310200": {
+   "blocks": 109,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003310300": {
+   "blocks": 79,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003320400": {
+   "blocks": 62,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003320600": {
+   "blocks": 44,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003320700": {
+   "blocks": 61,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003561600": {
+   "blocks": 76,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003561700": {
+   "blocks": 34,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003561900": {
+   "blocks": 55,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003562000": {
+   "blocks": 28,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003562300": {
+   "blocks": 129,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003562400": {
+   "blocks": 171,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003562500": {
+   "blocks": 166,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003562600": {
+   "blocks": 211,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003562700": {
+   "blocks": 44,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003562800": {
+   "blocks": 64,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003562900": {
+   "blocks": 142,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003563000": {
+   "blocks": 81,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003563100": {
+   "blocks": 87,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003563200": {
+   "blocks": 195,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003980000": {
+   "blocks": 11,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003980100": {
+   "blocks": 32,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003980300": {
+   "blocks": 3,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003980400": {
+   "blocks": 9,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003980500": {
+   "blocks": 24,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003980600": {
+   "blocks": 53,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003980700": {
+   "blocks": 33,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003980800": {
+   "blocks": 38,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003980900": {
+   "blocks": 51,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003981000": {
+   "blocks": 73,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003981100": {
+   "blocks": 45,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003981200": {
+   "blocks": 29,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003981800": {
+   "blocks": 23,
+   "rings": 1,
+   "polygons": 1
+  },
+  "42003982200": {
+   "blocks": 19,
+   "rings": 1,
+   "polygons": 1
+  }
+ },
+ "zips": {
+  "15003": {
+   "blocks": 29,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15005": {
+   "blocks": 22,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15006": {
+   "blocks": 9,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15007": {
+   "blocks": 11,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15014": {
+   "blocks": 141,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15015": {
+   "blocks": 34,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15017": {
+   "blocks": 341,
+   "rings": 2,
+   "polygons": 2
+  },
+  "15018": {
+   "blocks": 61,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15020": {
+   "blocks": 28,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15024": {
+   "blocks": 257,
+   "rings": 2,
+   "polygons": 1
+  },
+  "15025": {
+   "blocks": 525,
+   "rings": 2,
+   "polygons": 2
+  },
+  "15026": {
+   "blocks": 49,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15028": {
+   "blocks": 18,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15030": {
+   "blocks": 55,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15031": {
+   "blocks": 27,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15034": {
+   "blocks": 82,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15035": {
+   "blocks": 101,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15037": {
+   "blocks": 326,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15044": {
+   "blocks": 461,
+   "rings": 3,
+   "polygons": 1
+  },
+  "15045": {
+   "blocks": 144,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15046": {
+   "blocks": 77,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15047": {
+   "blocks": 9,
+   "rings": 2,
+   "polygons": 2
+  },
+  "15049": {
+   "blocks": 26,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15051": {
+   "blocks": 20,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15056": {
+   "blocks": 51,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15057": {
+   "blocks": 127,
+   "rings": 2,
+   "polygons": 1
+  },
+  "15063": {
+   "blocks": 59,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15064": {
+   "blocks": 16,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15065": {
+   "blocks": 392,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15068": {
+   "blocks": 68,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15071": {
+   "blocks": 242,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15075": {
+   "blocks": 4,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15076": {
+   "blocks": 26,
+   "rings": 2,
+   "polygons": 2
+  },
+  "15082": {
+   "blocks": 12,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15084": {
+   "blocks": 446,
+   "rings": 2,
+   "polygons": 1
+  },
+  "15085": {
+   "blocks": 16,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15086": {
+   "blocks": 40,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15088": {
+   "blocks": 49,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15089": {
+   "blocks": 8,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15090": {
+   "blocks": 364,
+   "rings": 2,
+   "polygons": 1
+  },
+  "15101": {
+   "blocks": 384,
+   "rings": 3,
+   "polygons": 1
+  },
+  "15102": {
+   "blocks": 446,
+   "rings": 2,
+   "polygons": 2
+  },
+  "15104": {
+   "blocks": 407,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15106": {
+   "blocks": 684,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15108": {
+   "blocks": 812,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15110": {
+   "blocks": 284,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15112": {
+   "blocks": 133,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15116": {
+   "blocks": 248,
+   "rings": 2,
+   "polygons": 2
+  },
+  "15120": {
+   "blocks": 611,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15122": {
+   "blocks": 450,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15126": {
+   "blocks": 241,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15129": {
+   "blocks": 187,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15131": {
+   "blocks": 221,
+   "rings": 2,
+   "polygons": 1
+  },
+  "15132": {
+   "blocks": 1141,
+   "rings": 2,
+   "polygons": 1
+  },
+  "15133": {
+   "blocks": 198,
+   "rings": 2,
+   "polygons": 2
+  },
+  "15135": {
+   "blocks": 113,
+   "rings": 2,
+   "polygons": 1
+  },
+  "15136": {
+   "blocks": 608,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15137": {
+   "blocks": 274,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15139": {
+   "blocks": 151,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15140": {
+   "blocks": 86,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15142": {
+   "blocks": 26,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15143": {
+   "blocks": 571,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15144": {
+   "blocks": 145,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15145": {
+   "blocks": 173,
+   "rings": 2,
+   "polygons": 2
+  },
+  "15146": {
+   "blocks": 472,
+   "rings": 2,
+   "polygons": 1
+  },
+  "15147": {
+   "blocks": 328,
+   "rings": 3,
+   "polygons": 3
+  },
+  "15148": {
+   "blocks": 122,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15201": {
+   "blocks": 463,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15202": {
+   "blocks": 438,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15203": {
+   "blocks": 350,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15204": {
+   "blocks": 356,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15205": {
+   "blocks": 543,
+   "rings": 3,
+   "polygons": 3
+  },
+  "15206": {
+   "blocks": 777,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15207": {
+   "blocks": 476,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15208": {
+   "blocks": 348,
+   "rings": 2,
+   "polygons": 1
+  },
+  "15209": {
+   "blocks": 270,
+   "rings": 2,
+   "polygons": 2
+  },
+  "15210": {
+   "blocks": 934,
+   "rings": 2,
+   "polygons": 1
+  },
+  "15211": {
+   "blocks": 339,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15212": {
+   "blocks": 1036,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15213": {
+   "blocks": 305,
+   "rings": 4,
+   "polygons": 1
+  },
+  "15214": {
+   "blocks": 453,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15215": {
+   "blocks": 378,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15216": {
+   "blocks": 440,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15217": {
+   "blocks": 410,
+   "rings": 2,
+   "polygons": 2
+  },
+  "15218": {
+   "blocks": 401,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15219": {
+   "blocks": 537,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15220": {
+   "blocks": 447,
+   "rings": 3,
+   "polygons": 2
+  },
+  "15221": {
+   "blocks": 754,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15222": {
+   "blocks": 232,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15223": {
+   "blocks": 243,
+   "rings": 2,
+   "polygons": 2
+  },
+  "15224": {
+   "blocks": 264,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15225": {
+   "blocks": 89,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15226": {
+   "blocks": 302,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15227": {
+   "blocks": 499,
+   "rings": 2,
+   "polygons": 1
+  },
+  "15228": {
+   "blocks": 253,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15229": {
+   "blocks": 279,
+   "rings": 2,
+   "polygons": 1
+  },
+  "15232": {
+   "blocks": 133,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15233": {
+   "blocks": 198,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15234": {
+   "blocks": 272,
+   "rings": 3,
+   "polygons": 2
+  },
+  "15235": {
+   "blocks": 585,
+   "rings": 4,
+   "polygons": 1
+  },
+  "15236": {
+   "blocks": 487,
+   "rings": 3,
+   "polygons": 3
+  },
+  "15237": {
+   "blocks": 693,
+   "rings": 4,
+   "polygons": 3
+  },
+  "15238": {
+   "blocks": 393,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15239": {
+   "blocks": 216,
+   "rings": 2,
+   "polygons": 2
+  },
+  "15241": {
+   "blocks": 338,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15243": {
+   "blocks": 156,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15260": {
+   "blocks": 5,
+   "rings": 2,
+   "polygons": 2
+  },
+  "15290": {
+   "blocks": 5,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15332": {
+   "blocks": 40,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15642": {
+   "blocks": 4,
+   "rings": 1,
+   "polygons": 1
+  },
+  "15668": {
+   "blocks": 1,
+   "rings": 1,
+   "polygons": 1
+  },
+  "16046": {
+   "blocks": 71,
+   "rings": 2,
+   "polygons": 2
+  },
+  "16055": {
+   "blocks": 1,
+   "rings": 1,
+   "polygons": 1
+  },
+  "16059": {
+   "blocks": 13,
+   "rings": 3,
+   "polygons": 3
+  }
+ },
+ "summary": {
+  "neighborhoods": 90,
+  "tracts": 137,
+  "zips": 114,
+  "tracts_2020_linked": 128,
+  "multi_part_neighborhoods": [
+   "Lincoln-Lemington-Belmar",
+   "Marshall-Shadeland",
+   "Troy Hill",
+   "West Oakland"
+  ],
+  "excluded": [
+   "Mount Oliver Borough"
+  ],
+  "seconds": 10.7
+ }
+}

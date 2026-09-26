@@ -1,0 +1,26 @@
+{
+ "allegheny_sales_slim.csv.gz": {
+  "from": "sales.csv",
+  "rows_in": 503747,
+  "rows_out": 503747,
+  "note": "All rows kept; columns reduced to those used."
+ },
+ "zip_zhvi_allegheny.csv": {
+  "from": "Zip_zhvi_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv",
+  "rows_in": 26268,
+  "rows_out": 94,
+  "note": "Filtered to ZIP codes Zillow assigns to Allegheny County, PA."
+ },
+ "zip_zori_allegheny.csv": {
+  "from": "Zip_zori_uc_sfrcondomfr_sm_month.csv",
+  "rows_in": 8459,
+  "rows_out": 55,
+  "note": "Filtered to ZIP codes Zillow assigns to Allegheny County, PA."
+ },
+ "tracts_2020_allegheny.geojson": {
+  "from": "tl_2022_42_tract.zip",
+  "rows_in": 3446,
+  "rows_out": 394,
+  "note": "2020 Census tracts (TIGER 2022) for Allegheny County, lightly simplified."
+ }
+}
